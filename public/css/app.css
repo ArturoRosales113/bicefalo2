@@ -1,0 +1,47 @@
+/* Fuentes */
+@font-face {
+  font-family: 'Cassannet-Regular';
+  src: url('../fonts/cassanet/Cassannet-Regular.eot');
+  src: url('../fonts/cassanet/Cassannet-Regular.woff2') format('woff2'),
+       url('../fonts/cassanet/Cassannet-Regular.woff') format('woff'),
+       url('../fonts/cassanet/Cassannet-Regular.ttf') format('truetype'),
+       url('../fonts/cassanet/Cassannet-Regular.svg#Cassannet-Regular') format('svg'),
+       url('../fonts/cassanet/Cassannet-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+.font1{
+ font-family: 'Cassannet-Regular';
+ letter-spacing: .5rem;
+}
+.font2{
+ font-family: 'Raleway', sans-serif;
+ letter-spacing: .3rem;
+}
+.rem-5{
+ font-size: .5rem;
+}
+.rem1{
+ font-size: 1rem;
+}
+.rem2{
+ font-size: 2rem;
+}
+.rem3{
+ font-size: 3rem;
+}
+
+.line1-5{
+ line-height: 2;
+}
+
+/* Colores */
+.bg1{
+ background-color: #9f9f9f;
+}
+
+/* Personalizacion */
+body{
+ font-family: 'Raleway', sans-serif;
+ letter-spacing: .15rem;
+}

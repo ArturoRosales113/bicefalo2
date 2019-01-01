@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cassannet-Regular';
+  src: url('Cassannet-Regular.eot');
+  src: url('Cassannet-Regular.woff2') format('woff2'),
+       url('Cassannet-Regular.woff') format('woff'),
+       url('Cassannet-Regular.ttf') format('truetype'),
+       url('Cassannet-Regular.svg#Cassannet-Regular') format('svg'),
+       url('Cassannet-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
